@@ -70,12 +70,14 @@ If the threshold is too low, end users might get irritated of frequent notificat
 ```
 1. Introduce feature to keep track of inventory for an user.
 	ex. Medicines, Food, Basic Clothes, etc.
-	To facilitate a person in keeping track of his disaster bag and replenish when necessary.
+	(To facilitate a person in keeping track of his disaster bag and replenish when necessary.)
 
 2. Introduce OFFLINE Survival Tips n Tricks for an user to access when needed.
 
 3. Integrate social networking in the app to let users disseminate local information, ask for help, update regional news etc.
 
-4. The future is endless. This can be used to directly co-ordinate with government agencies, send last seen
+4. Keep a copy of maps to be accessed offline. 
+
+5. The future is endless. This can be used to directly co-ordinate with government agencies, send last seen
 location to rescue teams, point out shelters, clinics etc.
 ```
