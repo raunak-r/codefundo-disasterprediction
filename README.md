@@ -22,6 +22,11 @@ places etc.), news, social networking etc., and often, *from the disaster itself
 	notifications can be raised.
 
 Notification will be sent via SMS, App Notification, Emails etc.
+
+The key takeaway is that currently, people come to know about the disaster when it strucks them.
+So, the above solution focuses on notifying them as soon as possible.
+It can be around an hour in case of tsunami, a day in case of climate disaster 
+and possibly a minute in case of an earthquake.
 ```
 
 ## App Fundamentals 
